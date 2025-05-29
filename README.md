@@ -1,1 +1,4 @@
-This repository contains all the projects I completed as part of the Google Advanced Data Analytics course. Welcome!
+In the pursuit of the Google Advanced Data Analytics certification, I have chosen to work on the TikTok project. 
+Background: 
+TikTok users have the ability to submit reports that identify videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. The process generates a large number of user reports that are challenging to consider in a timely manner. As such, TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently. With this final product of building a prediction model in mind, the guided projects are completed in the following order:
+1) Course 2 lab, data analysis with Python
