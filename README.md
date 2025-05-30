@@ -8,5 +8,5 @@ The project objectives include:<br>
 • Gathering descriptive statistics<br>
 • Visualizing the TikTok data in Python<br>
 • Using pandas to manipulate the data for analysis and visualization<br>
-• Conducting exploratory data analysis (EDA) to uncover patterns, trends, and relationships
+
 
