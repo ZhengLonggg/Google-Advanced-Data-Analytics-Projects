@@ -8,7 +8,7 @@ The project objectives include:<br>
 • Gathering descriptive statistics<br>
 • Visualizing the TikTok data in Python<br>
 • Using pandas to manipulate the data for analysis and visualization<br>
-2) [Course 3 lab, EDA](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%203%20lab%2C%20EDA.ipynb) <br>
+2) [Course 3 lab, EDA with Python](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%203%20lab%2C%20EDA.ipynb) <br>
 This is the second guided project I completed for the Google Advanced Data Analytics certification, focusing on exploratory data analysis (EDA) with the TikTok dataset. In this project, I practiced uncovering patterns by presenting findings through boxplots, histograms, barplots, piecharts and scatterplots. These visualisations has helped me to explore and compare the relationships between different variables, such as the viewing proportion of TikTok videos classified as 'claim' against those classified as 'opinion'. <br>
 The project objectives include:<br>
 • Exploring and cleaning the TikTok dataset<br>
