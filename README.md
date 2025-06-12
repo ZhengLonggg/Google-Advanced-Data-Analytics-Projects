@@ -16,7 +16,7 @@ This lab objectives include:<br>
 • Data visualisation with various charts <br>
 • Determine outliers <br>
 3) [Course 4 lab, hypothesis testing with Python](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%203%20lab%2C%20EDA.ipynb)  <br>
-Next, we investigate the relationship between TikTok authos' verification status and their average video view counts. Specifically, do verified authors command higher average view counts, or are the view counts simmilar between verified and unverified authors? To answer this, we use hypothesis testing. <br>
+Next, we investigate the relationship between TikTok authors' verification status and their average video view counts. Specifically, do verified authors command higher average view counts, or are the view counts simmilar between verified and unverified authors? To answer this, we use hypothesis testing. <br>
 This lab objectives include:<br>
 • Dropping rows with null values <br>
 • Using hypothesis testing to determine if there's a significant difference in the view countd for verified vs unverified authors. <br>
