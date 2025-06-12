@@ -12,6 +12,12 @@ This lab objectives include:<br>
 In the second guided project, we focus on exploratory data analysis (EDA) with the TikTok dataset. In this lab, I practiced uncovering patterns by presenting findings through boxplots, histograms, barplots, piecharts, and scatterplots. These visualisations has helped me to explore and compare the relationships between different variables, such as the viewing proportion of TikTok videos classified as 'claim' against those classified as 'opinion'. <br>
 This lab objectives include:<br>
 • Exploring and cleaning the TikTok dataset<br>
-• Perform EDA <br>
+• Performing EDA <br>
 • Data visualisation with various charts <br>
 • Determine outliers <br>
+3) [Course 4 lab, hypothesis testing with Python](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%203%20lab%2C%20EDA.ipynb)  <br>
+Next, we investigate the relationship between TikTok authos' verification status and their average video view counts. Specifically, do verified authors command higher average view counts, or are the view counts simmilar between verified and unverified authors? To answer this, we use hypothesis testing. <br>
+This lab objectives include:<br>
+• Dropping rows with null values <br>
+• Using hypothesis testing to determine if there's a significant difference in the view countd for verified vs unverified authors. <br>
+• Posing potential follow-up questions based on the findings. 
