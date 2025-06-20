@@ -4,17 +4,17 @@ TikTok users have the ability to submit reports that identify videos and comment
 1) [Course 2 lab, data analysis with Pandas](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%202%20lab%2C%20data%20analysis%20with%20Pandas.ipynb) <br>
 This is the first project that I completed for my Google Advanced Data Analytics course.  In this fictional case study, I analyzed a synthetic TikTok dataset. Each TikTok video, where its data is represented as a row in the dataset, is mainly classified as either a 'claim' or an 'opinion'. TikTok videos are classified as 'claim' when the TikTok content creator asserts a statement as fact or presents information that can be objectively verified. On the other hand, TikTok videos that are classified as 'opinion' are those where TikTok content creators are expressing their feelings or views.  
 This lab objectives include:<br>
-• Building a dataframe for the TikTok dataset<br>
-• Gathering descriptive statistics<br>
-• Visualizing the TikTok data in Python<br>
-• Using pandas to manipulate the data for analysis and visualization<br>
+• Building a dataframe for the TikTok dataset.<br>
+• Gathering descriptive statistics.<br>
+• Visualizing the TikTok data in Python.<br>
+• Using pandas to manipulate the data for analysis and visualization.<br>
 2) [Course 3 lab, EDA with Python](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%203%20lab%2C%20EDA.ipynb) <br>
 In the second guided project, I focused on exploratory data analysis (EDA) with the TikTok dataset. I practiced uncovering patterns by presenting findings through boxplots, histograms, barplots, piecharts, and scatterplots. These visualisations has helped me to explore and compare the relationships between different variables, such as the viewing proportion of TikTok videos classified as 'claim' against those classified as 'opinion'. <br>
 This lab objectives include:<br>
-• Exploring and cleaning the TikTok dataset<br>
-• Performing EDA <br>
-• Data visualisation with various charts <br>
-• Determine outliers <br>
+• Exploring and cleaning the TikTok dataset.<br>
+• Performing EDA. <br>
+• Data visualisation with various charts. <br>
+• Determine outliers. <br>
 3) [Course 4 lab, hypothesis testing with Python](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%204%20lab%2C%20Hypothesis%20Testing.ipynb)  <br>
 Next, we investigate the relationship between TikTok authors' verification status and their average video view counts. Specifically, do verified authors command higher average view counts, or are the view counts simmilar between verified and unverified authors? To answer this, we use hypothesis testing. <br>
 This lab objectives include:<br>
