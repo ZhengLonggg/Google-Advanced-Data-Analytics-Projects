@@ -7,7 +7,7 @@ This lab objectives include:<br>
 • Building a dataframe for the TikTok dataset.<br>
 • Gathering descriptive statistics.<br>
 • Visualizing the TikTok data in Python.<br>
-• Using pandas to manipulate the data for analysis and visualization.<br>
+• Using pandas to manipulate the data for analysis and visualisation.<br>
 2) [Course 3 lab, EDA with Python](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%203%20lab%2C%20EDA.ipynb) <br>
 In the second guided project, I focused on exploratory data analysis (EDA) with the TikTok dataset. I practiced uncovering patterns by presenting findings through boxplots, histograms, barplots, piecharts, and scatterplots. These visualisations has helped me to explore and compare the relationships between different variables, such as the viewing proportion of TikTok videos classified as 'claim' against those classified as 'opinion'. <br>
 This lab objectives include:<br>
@@ -18,13 +18,13 @@ This lab objectives include:<br>
 3) [Course 4 lab, hypothesis testing with Python](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%204%20lab%2C%20Hypothesis%20Testing.ipynb)  <br>
 Next, we investigate the relationship between TikTok authors' verification status and their average video view counts. Specifically, do verified authors command higher average view counts, or are the view counts simmilar between verified and unverified authors? To answer this, we use hypothesis testing. <br>
 This lab objectives include:<br>
-• Dropping rows with null values <br>
+• Dropping rows with null values. <br>
 • Using hypothesis testing to determine if there's a significant difference in the view count for verified vs unverified authors. <br>
 • Posing potential follow-up questions based on the findings. <br>
 3) [Course 5 lab, Regression Modeling](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%205%20lab%2C%20Regression%20Modeling.ipynb)  <br>
 In this project, I built a regression model in Python to predict whether a TikTok account is verified based on certain video characteristics, such as the duration of the TikTok video and its view count. <br>
 This lab objectives include:<br>
-• Encoding categorical variables for regression compatibility <br>
+• Encoding categorical variables for regression compatibility. <br>
 • Building a logistic regression model to predict account verification status. <br>
 • Visualising the model performance using confusion matrix. <br>
 • Interpretting model coefficients to identify key predictors. <br>
