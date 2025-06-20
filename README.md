@@ -20,4 +20,5 @@ Next, we investigate the relationship between TikTok authors' verification statu
 This lab objectives include:<br>
 • Dropping rows with null values <br>
 • Using hypothesis testing to determine if there's a significant difference in the view countd for verified vs unverified authors. <br>
-• Posing potential follow-up questions based on the findings. 
+• Posing potential follow-up questions based on the findings. <br>
+3) [Course 5 lab, Regression Modeling](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%205%20lab%2C%20Regression%20Modeling)  <br>
