@@ -34,6 +34,6 @@ Finally, we utilise two machine learning models, random forest and XGBoost, to f
 The objectives of this lab include: <br>
 • Cleaning the data before fitting it into the machine learning models <br>
 • Using GridSearch to find the best hyperparameters <br>
-• Evaluating each machine learning model's performance with average recall and precision score <br>
+• Evaluating each machine learning model's performance using average recall and precision scores <br>
 • Selecting the better machine learning model after analysing its confusion matrix and classification report <br>
 • Utilising feature importance to find the most predictive features <br>
