@@ -29,3 +29,4 @@ This lab objectives include:<br>
 • Visualising the model performance using confusion matrix. <br>
 • Interpretting model coefficients to identify key predictors. <br>
 • Evaluating model performance using classification report and metrics such as accuracy, precision, and recall. <br><br>
+3) [Course 6 lab, Classifying videos using machine learning](https://github.com/ZhengLonggg/Google-Advanced-Data-Analytics-Projects/blob/main/Course%205%20lab%2C%20Regression%20Modeling.ipynb)  <br>
